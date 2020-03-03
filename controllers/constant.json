@@ -1,0 +1,7 @@
+{
+    "mail_exist": "mail exists",
+    "add_data": "data added",
+    "auth_failed": "Auth failed",
+    "auth_successful": "Auth successful",
+    "email_not_found": "please enter valid email"
+}
